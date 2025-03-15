@@ -14,7 +14,7 @@ A modern hotel booking application built with Python, FastAPI for the backend, a
 
 ```bash
 git clone https://github.com/Durga099/Hotel_Booking
-cd HotelBooking
+cd Hotel_Booking
 ```
 
 ### 2. Create and Activate Virtual Environment
