@@ -13,7 +13,7 @@ A modern hotel booking application built with Python, FastAPI for the backend, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Durga099/Hotel-Booking.git
+git clone https://github.com/Durga099/Hotel_Booking
 cd HotelBooking
 ```
 
